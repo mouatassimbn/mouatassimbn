@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning **advanced react concepts**
+- 🌱 I’m currently learning **Zig**
 
 - 👯 I’m looking to collaborate on **any fun project**
 
