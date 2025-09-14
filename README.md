@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mouatassim Boulahsen</h1>
+<h1 align="center">Hi 👋, I'm Mouatassim</h1>
 
 - 🔭 I’m currently working as a **.Net/React developer**
 
