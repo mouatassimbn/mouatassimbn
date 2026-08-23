@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouatassim</h1>
 
-- 🔭 I’m currently working as a **.Net/React developer**
+- 🔭 I’m currently working as a **Software developer 3**
 
 - 🌱 I’m currently **diving deep into performance related subjects**
 
